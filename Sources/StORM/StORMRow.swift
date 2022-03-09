@@ -6,7 +6,7 @@
 //
 //
 
-import PerfectLib
+import Foundation
 
 fileprivate enum idTypeList {
 	case String

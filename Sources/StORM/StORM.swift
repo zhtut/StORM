@@ -6,6 +6,7 @@
 //
 //  April 6, 2017: 1.0.3, add support for storing [String] as comma delimited strings
 
+import PerfectLib
 
 /// Variable defining the global debug state for all classes inheriting from the StORM superclass.
 /// When true, certain methods will generate a debug message under certain conditions.
